@@ -52,16 +52,11 @@ contribuidor do github: https://github.com/valdemir1925
 ## Código da função soma 
 
 
-print('Crie um programa que leia dois números e mostre a soma entre eles')
-
-print('='*20)
-
 n1 = int(input('Digite um Valor: '))
 n2 = int(input('Digite outro valor: '))
 s = n1 + n2
 print(f'A soma entre {n1} e {n2} é igual a: {s}')
 
-print('='*20)
 
 
 
