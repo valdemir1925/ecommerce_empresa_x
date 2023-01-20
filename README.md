@@ -44,3 +44,5 @@ __Melhoria 1__, _Melhoria 2_
 [google](https://www.google.com)
 
 [https://www.ifsc.edu.br/](https://www.ifsc.edu.br/)
+
+contribuidor do github: https://github.com/valdemir1925
