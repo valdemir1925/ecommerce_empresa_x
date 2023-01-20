@@ -46,3 +46,5 @@ __Melhoria 1__, _Melhoria 2_
 [https://www.ifsc.edu.br/](https://www.ifsc.edu.br/)
 
 contribuidor do github: https://github.com/valdemir1925
+
+[![logo do PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)](https://github.com/valdemir1925)
