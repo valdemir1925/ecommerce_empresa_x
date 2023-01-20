@@ -34,6 +34,8 @@ __Melhoria 1__, _Melhoria 2_
 
 ![Logo do python](img/python.png)
 
+#### Imagem externa
+
 ![Logo do PHP](https://pt.wikipedia.org/wiki/PHP#/media/Ficheiro:PHP-logo.svg)
 
 
